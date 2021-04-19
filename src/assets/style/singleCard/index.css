@@ -1,0 +1,36 @@
+.card-header{    
+    display: flex;
+    justify-content: space-between;
+    width: 97%;
+    padding: 20px 20px 10px 0px;
+}
+.bigger{
+    
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 60%;
+    border-radius: 0px;
+    margin: 0px;
+}
+.titles{
+    margin-inline-start: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.btns{
+    display: flex;
+    min-width:40%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.single-contanier{
+    padding: 20px;
+}
+
+.section2{
+    margin-top: 100px;
+}

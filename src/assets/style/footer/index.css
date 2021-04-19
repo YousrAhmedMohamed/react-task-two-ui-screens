@@ -1,0 +1,81 @@
+.footer-body{
+    min-height: 200px;
+    background-color: #E9E9E9;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;    
+    width: 100%;
+}
+.logo-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.logo-img{
+    height: 50px;
+    margin-inline-end: 5px;
+}
+.app-img{
+    height: 110px;
+    margin-inline-end: 5px;
+}
+.apps-div{
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+.i-app-img{
+    height: 50px;
+    margin-inline-end: 5px;
+}
+.free{
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.social-logo-div{
+    opacity: 0.5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+
+}
+.title{
+    font-weight: bold;
+    text-transform:uppercase;
+    text-align: start;
+}
+.left-side{
+    align-items: flex-start;
+    justify-content: space-between;
+    display: flex;
+    width: 50%;
+    padding: 60px 35px 0px 35px;
+}
+.about-div{
+    display: flex;
+    flex-wrap: wrap;
+    width: 35%;
+    align-items: flex-start;
+    justify-self: flex-start
+}
+.section{
+    text-align: start;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin-inline-end: 20px;
+    margin-bottom: 10px;
+}
+.right-side{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 60px 35px 0px 35px;
+}
+.small-font{
+    font-size: 12px;
+}

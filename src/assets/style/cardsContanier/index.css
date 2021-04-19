@@ -1,0 +1,7 @@
+.cards-container{
+    background-color: gainsboro;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 20px 0px;
+}
